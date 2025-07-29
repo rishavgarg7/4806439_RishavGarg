@@ -1,8 +1,8 @@
-# mygreatlearning.com certificate
+# Mygreatlearning Agile Certificate
 ![Certificate](SDLC/Agile_certificate.png)
 
-# simplilearn git certificate
-![Simplilearn_certificate](Git_logs/git_simplilearn.jpg)
+# Simplilearn Git Certificate
+![Simplilearn_certificate](Git_logs/simplilearn_certificate.jpg)
 
-# Codesignal git image
-![Codesignal_image](Git_logs/git_codesignal.png)
+# Codesignal Git Certificate
+![Codesignal_image](Git_logs/codesignal_certificate.png)
