@@ -12,4 +12,6 @@
 
 # Linux Commands Assignment
 
-[Go to file](<Linux/Assignment(29-7-25).md>)
+29-05-2025 Assignment: [Go to file](<Linux/Assignment(29-7-25).md>)
+
+30-05-2025 Assignment: [Go to file](<Linux/Assignment(30-7-25).md>)
