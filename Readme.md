@@ -19,3 +19,7 @@
 # Sololearn Introduction to C Certificate
 
 ![Introduction_to_C](C/IntrotoC.jpg)
+
+# Sololearn C Intermediate Certificate
+
+![C_Intermediate](C/CIntermediate.jpg)
